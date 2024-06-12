@@ -1,0 +1,62 @@
+[
+  {
+    "label": "Enero",
+    "ingresos": 64854,
+    "costos": 32652
+  },
+  {
+    "label": "Febrero",
+    "ingresos": 54628,
+    "costos": 42393
+  },
+  {
+    "label": "Marzo",
+    "ingresos": 117238,
+    "costos": 50262
+  },
+  {
+    "label": "Abril",
+    "ingresos": 82830,
+    "costos": 64731
+  },
+  {
+    "label": "Mayo",
+    "ingresos": 91208,
+    "costos": 41893
+  },
+  {
+    "label": "Junio",
+    "ingresos": 103609,
+    "costos": 83809
+  },
+  {
+    "label": "Julio",
+    "ingresos": 90974,
+    "costos": 44772
+  },
+  {
+    "label": "Agosto",
+    "ingresos": 82919,
+    "costos": 37590
+  },
+  {
+    "label": "Septiembre",
+    "ingresos": 62407,
+    "costos": 43349
+  },
+  {
+    "label": "Octubre",
+    "ingresos": 82528,
+    "costos": 45324
+  },
+  {
+    "label": "Noviembre",
+    "ingresos": 56979,
+    "costos": 47978
+  },
+  {
+    "label": "Diciembre",
+    "ingresos": 87436,
+    "costos": 39175
+  }
+]
